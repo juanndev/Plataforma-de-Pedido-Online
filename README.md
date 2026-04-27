@@ -12,7 +12,7 @@ Uma aplicação moderna de delivery de comida que simula a experiência completa
 ## 📸 Demonstração
 
 | Página Principal | Carrinho e Checkout |
-| :--- | :--- |
+| :---: | :---: |
 | ![Desktop Preview](public/desktop-preview.png) | ![Mobile Preview](public/mobile-preview.png) |
 
 
